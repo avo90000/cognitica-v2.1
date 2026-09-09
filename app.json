@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Cognitica",
+    "slug": "cognitica",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.yourname.cognitica",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourname.cognitica"
+    }
+  }
+}
